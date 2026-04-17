@@ -1,9 +1,5 @@
 # twitter-thread
 
-将长文/文稿转换为 Twitter 帖子串的 Claude Skill
-
-## 描述
-
 把想法或素材变成一串能抓人、读得下去、有落点的 X/Twitter thread。
 
 核心信念：**好的 thread 是用"钩子 + 干货 + 案例 + 观点 + CTA"五种积木搭出来的。**
